@@ -1,0 +1,155 @@
+*{
+	//border: 2px solid black;
+	padding:0px;
+	margin:0px;
+}
+html,header{
+	border:0px;
+}
+body{
+	border:0px;
+	margin:0px 5px;
+	background-color:#9C9C9C;
+}
+.rightpic{
+	display:inline;
+	float:right;
+	margin:10px;
+	margin-left:20px;
+	margin-right:0px;
+	padding:8px;
+	border-width: 5px;
+	border-style: double;	
+}
+.leftpic{
+	display:inline;
+	float:left;
+	margin:10px;
+	margin-right:20px;
+	margin-left:0px;
+	padding:8px;
+	border-width: 5px;
+	border-style: double;
+}
+img.middlePic{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding:8px;
+	border-width: 5px;
+	border-style: double;
+
+}
+.tab {
+	position:absolute;left:150px; 
+	display:block;
+}
+.emptypara{
+height:100px;
+}
+ul.unorderedList{
+	list-style: circle;
+	padding-left:50px;	
+}
+.para1{
+	//text-align:justify;
+	padding:10px 17px;
+	font-size:17px;
+	
+}
+.header1{
+	position:fixed;
+	width:100%;
+	height:110px;
+	background-color:#3399cc;
+}
+h1.mainheader{
+	float:left;
+	font-size:5em;
+	color: white;
+	padding:0px;
+	padding-left:20px;
+	margin:0px;
+	height:110px;
+	text-shadow: 2px 2px #000;
+}
+img.iconimage{
+	border:0px;
+	padding-right:20px;
+	float:right;
+	width:110px;
+	height:110px;
+	display:inline;	
+}
+.header2{
+	position:fixed;
+	width:100%;
+	height:40px;
+	background-color:#FF2222;
+	border:0px;
+	top:110px;
+}
+.header2 ul{
+	float:right;
+	border:0px;
+	padding:8px;
+	padding-top:7px;
+	list-style-type:none;
+}
+.header2 ul li{
+	display:inline;
+	border:0px;
+}
+.header2 ul li a{
+	border:0px;
+	position:relative;
+	text-decoration:none;
+	font:700 18px Helvetica,Arial;
+	text-shadow: 2px 2px #000;
+	height:10px;
+	line-height:10px;
+	color:white;
+	padding-top:10px;
+	padding-right:28px;
+	padding-left:28px;
+	padding-bottom:10px;
+	vertical-align:middle;
+}
+.header2 ul li a:hover{
+	background:white;
+	color:#FF2222;
+	text-shadow: 0px 0px #000;
+}
+.placeholder{
+	width:100%;
+	height:180px;
+}
+#currenttab{
+	background-color:white;
+	color:red;
+	text-shadow: 0px 0px #000;
+}
+img.computer{
+	width:350px;
+	height:250px;
+}
+img.mouse{
+	width:250px;
+	height:250px;
+}
+img.motherboard{
+	width:320px;
+	height:350px;
+}
+.footerNote{
+	color:white;
+	padding:8px;
+	font-size:17px;
+}
+.footer{
+	margin-top:100px;
+	border: 2px solid black;
+	width:100%;
+	height:100px;
+	background-color:#3399cc;
+}

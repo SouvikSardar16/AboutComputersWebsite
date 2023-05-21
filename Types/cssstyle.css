@@ -1,0 +1,23 @@
+*{
+	//border: 2px solid black;
+}
+img.analogComputer{
+	width:250px;
+	height:350px;
+}
+img.hybridComputer{
+	width:350px;
+	height:350px;
+}
+img.havardArchitecture{
+	width:400px;
+	height:300px;
+}
+img.risc{
+	width:300px;
+	height:300px;	
+}
+img.microComputer{
+	width:300px;
+	height:200px;
+}
